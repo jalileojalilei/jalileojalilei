@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">full-stack developer</h3>
 
-- 🔭 I’m currently working on **my own projects:)**
-
 - 📫 How to reach me **mertkaraibrahimoglu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
